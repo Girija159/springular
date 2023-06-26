@@ -1,7 +1,3 @@
-
-> Angular and SpringBoot both have way too much of magic, if you are one who like to be in controll of their code, then check > out my project on pure Java 11 (With Modules), Jersey and Vue.JS for UI
-> [WebApp with Java 11, Jersey and VueJS](https://github.com/mrin9/Modular-Java-Jersey-Vue)
-
 ## Angular 5+ Frontent with SpringBoot (Java) Backend
 Application to demonstrate various parts of a service oriented RESTfull application. 
 
@@ -206,16 +202,4 @@ curl -X GET --header 'Accept: application/json' --header 'Authorization: [replac
 ---
 #### Database Schema
 ![ER Diagram](/screenshots/db_schema.png?raw=true)
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/angular-springboot-rest-jwt#backer)]
-
-<a href="https://opencollective.com/angular-springboot-rest-jwt#backers" target="_blank"><img src="https://opencollective.com/angular-springboot-rest-jwt/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/angular-springboot-rest-jwt#sponsor)]
 
